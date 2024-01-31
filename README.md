@@ -20,7 +20,13 @@
 - Fun fact **I love participating in code challenges as a way to learn and grow while having fun coding!**
 
 <br>
+  
+## Courses and Certifications:
 
+- Completed **QA Manual course** to learn testing strategies and improve code quality.
+- Recently completed **Web Development with Java course** to enhance my skills in Java-based web development.
+
+<br>
 
 ## Tech Stack:
 
@@ -36,6 +42,17 @@
 
 <br>
 <be>
+
+## Featured Projects:
+
+| Title                                   | Brief Description                                                                                                          | Link                                                                                   | Technologies Used                                                                                          |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Connect4 Bot with Python**           | Connect4 playing bot implemented in Python using WebSockets.                                                               | [Connect4 Bot](https://github.com/eliasfire/bot-codechallenge-connect4)                                                                      | Python, WebSockets                                                                                         |
+| **Delivery System with Spring Boot**   | Order delivery system developed with Spring Boot. Initially implemented with MySQL and later migrated to MongoDB.         | [Delivery System](https://github.com/JuanPMurdolo/Spring-maestria-BBDD-Grupo2)                                                                   | Spring Boot, MySQL, MongoDB, Layered Architecture                                                         |
+| **Implementation of Blockchain in JS** | Implementation of a Blockchain using JavaScript, following design patterns and architecture.                              | [Blockchain in JS](https://github.com/JuanPMurdolo/Tyh-2023-Grupo1)                    | JavaScript, Blockchain, Design Patterns, Architecture                                                     |
+| **Neural Network for Cardiac Risk Prediction** | Training of a neural network using Python and Keras to predict cardiac risk.                                           | [Cardiac Risk Prediction](https://github.com/JuanPMurdolo/tpfinal_topicos_2)                                                           | Python, Keras, Flask                                                                                       |
+                                                                       
+<br>
 
 ## Socials:
 <p align="left">
